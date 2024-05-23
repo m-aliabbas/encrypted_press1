@@ -1,0 +1,2773 @@
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006959582991839852 ----
+          ---- User Spoke:  hello? ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "gambling"
+} 2
+{
+  "partial" : "okay i'm doing great"
+} 1
+{
+  "partial" : "okay i'm doing great"
+} 1
+{
+  "partial" : "okay i'm doing great how are you doing"
+} 2
+{
+  "partial" : "okay i'm doing great time doing"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007754666003165767 ----
+---- User Spoke:  okay, i'm doing great how i was doing. ----
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "no i don't"
+} 1
+{
+  "partial" : "no i don't like to"
+} 1
+{
+  "partial" : "no i don't like to learn more"
+} 1
+{
+  "partial" : "no i don't like to learn more peculiar"
+} 1
+{
+  "partial" : "no i don't like to learn word fuck you"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008247416997619439 ----
+---- User Spoke:  no i don't like to learn more, fuck you. ----
+CHECKING OK KEYWORDS
+            ---- AI Detect : DNC ----             
+         ----- next state: disp_DNC ----          
+Current Bot Disposition: DNC
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007414457999402657 ----{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006959582991839852 ----
+          ---- User Spoke:  hello? ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "gambling"
+} 2
+{
+  "partial" : "okay i'm doing great"
+} 1
+{
+  "partial" : "okay i'm doing great"
+} 1
+{
+  "partial" : "okay i'm doing great how are you doing"
+} 2
+{
+  "partial" : "okay i'm doing great time doing"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007754666003165767 ----
+---- User Spoke:  okay, i'm doing great how i was doing. ----
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "no i don't"
+} 1
+{
+  "partial" : "no i don't like to"
+} 1
+{
+  "partial" : "no i don't like to learn more"
+} 1
+{
+  "partial" : "no i don't like to learn more peculiar"
+} 1
+{
+  "partial" : "no i don't like to learn word fuck you"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008247416997619439 ----
+---- User Spoke:  no i don't like to learn more, fuck you. ----
+CHECKING OK KEYWORDS
+            ---- AI Detect : DNC ----             
+         ----- next state: disp_DNC ----          
+Current Bot Disposition: DNC
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007414457999402657 ----
+         ----- next state: S_HELLO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+./sounds/Hello 1.wav
+          ---- Playing Hello 1.wav ----           
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008507792001182679 ----
+           ---- User Spoke:  hello ----           
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "i don't"
+} 2
+{
+  "partial" : "i don't know who is"
+} 1
+{
+  "partial" : "i don't know who is this"
+} 1
+{
+  "partial" : "i don't know who is this"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008017000000108965 ----
+ ---- User Spoke:  i don't know who is this. ---- 
+CHECKING OK KEYWORDS
+        ---- AI Detect : who_are_you ----         
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "dailymotion"
+} 1
+{
+  "partial" : "telemarketing"
+} 1
+{
+  "partial" : "telemarketing don't call me"
+} 1
+{
+  "partial" : "telemarketing don't call me again"
+} 1
+{
+  "partial" : "telemarketing don't call me again"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008004166003956925 ----
+---- User Spoke:  telemarketing don't call me again ----
+CHECKING OK KEYWORDS
+       ---- AI Detect : calling_about ----        
+          ----- next state: S_WHY ----            
+---- Current State: S_PITCH, Next Stat : S_WHY ----
+         ----- Current State: S_WHY -----         
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "delaware getting"
+} 3
+{
+  "partial" : "delaware getting don't call"
+} 1
+{
+  "partial" : "delaware getting don't call me again"
+} 1
+{
+  "partial" : "delaware getting don't call me again"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007699082998442464 ----
+---- User Spoke:  telemarketing, don't call me again. ----
+       ---- AI Detect : calling_about ----        
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "delaware"
+} 3
+{
+  "partial" : "delaware getting"
+} 1
+{
+  "partial" : "delaware getting gold color"
+} 1
+{
+  "partial" : "delaware getting don't call me again"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007470041993656196 ----
+---- User Spoke:  tell him i'm kidding, don't call me again. ----
+            ---- AI Detect : DNC ----             
+         ----- next state: disp_DNC ----          
+Current Bot Disposition: DNC
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "tele"
+} 3
+{
+  "partial" : "telemarketing"
+} 1
+{
+  "partial" : "telemarketing don't call me"
+} 1
+{
+  "partial" : "telemarketing don't call me again"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007529542002885137 ----
+---- User Spoke:  tell you marketing, don't call me again. ----
+       ---- AI Detect : calling_about ----        
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "the"
+} 2
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008308167001814581 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : "the"
+} 0
+{
+  "partial" : "the marketing"
+} 1
+{
+  "partial" : "the marketing"
+} 1
+{
+  "partial" : "the marketing don't call me"
+} 2
+{
+  "partial" : "the marketing don't call me again"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008218000999477226 ----
+---- User Spoke:  ellie marketing, don't call me again. ----
+CHECKING OK KEYWORDS
+       ---- AI Detect : calling_about ----        
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "hello"
+} 2
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006964083993807435 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : "the"
+} 0
+{
+  "partial" : "game time"
+} 1
+{
+  "partial" : "game time doing"
+} 1
+{
+  "partial" : "game time during"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007248834001075011 ----
+   ---- User Spoke:  great how you doing? ----    
+CHECKING OK KEYWORDS
+         ---- AI Detect : GreetBack ----          
+./sounds/I am Doing Great.wav
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "the show"
+} 1
+{
+  "partial" : "the sure go ahead"
+} 1
+{
+  "partial" : "the sure go ahead"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008125209002173506 ----
+      ---- User Spoke:  sure go ahead. ----       
+CHECKING OK KEYWORDS
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "hello"
+} 3
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.004355124998255633 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "so i"
+} 2
+{
+  "partial" : "so good"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0076469170016935095 ----
+       ---- User Spoke:  so i go ahead ----       
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "sure go ahead"
+} 3
+{
+  "partial" : "sure go ahead"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00771600100415526 ----
+      ---- User Spoke:  sure, go ahead. ----      
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+./sounds/Age
+       ---- Playing ./sounds/Age/1.wav ----       
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00791654199565528 ----
+           ---- User Spoke:  hello ----           
+greetings keyword check
+         ---- AI Detect : greetings ----          
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_AGE_QUESTION, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+./sounds/Age
+       ---- Playing ./sounds/Age/2.wav ----       
+            ---- listening for 6 ----             {'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "hello"
+} 3
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.004355124998255633 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "so i"
+} 2
+{
+  "partial" : "so good"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0076469170016935095 ----
+       ---- User Spoke:  so i go ahead ----       
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "sure go ahead"
+} 3
+{
+  "partial" : "sure go ahead"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00771600100415526 ----
+      ---- User Spoke:  sure, go ahead. ----      
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+./sounds/Age
+       ---- Playing ./sounds/Age/1.wav ----       
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00791654199565528 ----
+           ---- User Spoke:  hello ----           
+greetings keyword check
+         ---- AI Detect : greetings ----          
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_AGE_QUESTION, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+./sounds/Age
+       ---- Playing ./sounds/Age/2.wav ----       
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "no i'm"
+} 2
+{
+  "partial" : "no i'm not"
+} 1
+{
+  "partial" : "no i'm not"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008973875002993736 ----
+        ---- User Spoke:  no i'm not. ----        
+decline keyword check
+          ---- AI Detect : decline ----           
+         ----- next state: disp_DNQ ----          
+Current Bot Disposition: DNQ
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008038959000259638 ----
+         ----- next state: S_HELLO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+./sounds/Hello 1.wav
+          ---- Playing Hello 1.wav ----           
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "be"
+} 1
+{
+  "partial" : "didn't do it"
+} 1
+{
+  "partial" : "didn't do it"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008033250989683438 ----
+          ---- User Spoke:  do it. ----           
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "do it"
+} 3
+{
+  "partial" : "do it"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007785666995914653 ----
+          ---- User Spoke:  do it. ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "doing"
+} 1
+{
+  "partial" : "do it"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008364417000848334 ----
+          ---- User Spoke:  do it. ----           
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008571165999455843 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "tell me"
+} 1
+{
+  "partial" : "tell me more"
+} 1
+{
+  "partial" : "tell me more"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007998290995601565 ----
+       ---- User Spoke:  tell me more. ----       
+CHECKING OK KEYWORDS
+tell me more
+            ---- AI Detect : None ----            
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "hello"
+} 3
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008443457998509984 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "i'm"
+} 2
+{
+  "partial" : "i'm good"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008213832996261772 ----
+        ---- User Spoke:  i am good. ----         
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00820841699896846 ----
+         ----- next state: S_HELLO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+./sounds/Hello 1.wav
+          ---- Playing Hello 1.wav ----           
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "do it"
+} 2
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007743917005427647 ----
+          ---- User Spoke:  do it. ----           
+CHECKING OK KEYWORDS
+do it
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "hello"
+} 3
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007760000000416767 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "doing"
+} 1
+{
+  "partial" : "do it"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0074875829959637485 ----
+          ---- User Spoke:  do it. ----           
+CHECKING OK KEYWORDS
+True 7 5
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "but"
+} 1
+{
+  "partial" : "madame de"
+} 1
+{
+  "partial" : "but the hello"
+} 1
+{
+  "partial" : "but the hello"
+} 1
+{
+  "partial" : "but the hello disobeyed oh my"
+} 2
+{
+  "partial" : "but the hello disobeyed oh my god of them"
+} 1
+{
+  "partial" : "but the hello disobeyed oh my god of them are"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008250582999608014 ----
+          ---- User Spoke:  hello, ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "the"
+} 2
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00801658300042618 ----
+          ---- User Spoke:  hello? ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "do it"
+} 2
+{
+  "partial" : "do it"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007996959000593051 ----
+          ---- User Spoke:  do it. ----           
+CHECKING OK KEYWORDS
+True 7 5 True
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.0077809169961255975 ----
+        ---- User Spoke:  no, no, no. ----        
+          ---- AI Detect : decline ----           
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "do it"
+} 2
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007997082997462712 ----
+          ---- User Spoke:  do it. ----           
+CHECKING OK KEYWORDS
+5 7
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server -4.325099871493876e-05 ----
+         ----- next state: S_HELLO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+./sounds/Hello 1.wav
+          ---- Playing Hello 1.wav ----           
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "hello"
+} 2
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007923749995825347 ----
+          ---- User Spoke:  hello. ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "this"
+} 1
+{
+  "partial" : "just do it"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008110249997116625 ----
+        ---- User Spoke:  just do it. ----        
+CHECKING OK KEYWORDS
+5 10
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007800708001013845 ----
+         ----- next state: S_HELLO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+./sounds/Hello 1.wav
+          ---- Playing Hello 1.wav ----           
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+{
+  "partial" : ""
+} 5
+{
+  "partial" : ""
+} 6
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.012499124997702893 ----
+./sounds/are_you_there.wav
+       ---- Playing are_you_there.wav ----        
+         ----- next state: S_HELLO ----           
+---- Current State: S_HELLO, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+{
+  "partial" : ""
+} 5
+{
+  "partial" : ""
+} 6
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "hello"
+} 2
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007923749995825347 ----
+          ---- User Spoke:  hello. ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "this"
+} 1
+{
+  "partial" : "just do it"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008110249997116625 ----
+        ---- User Spoke:  just do it. ----        
+CHECKING OK KEYWORDS
+5 10
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007800708001013845 ----
+         ----- next state: S_HELLO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+./sounds/Hello 1.wav
+          ---- Playing Hello 1.wav ----           
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+{
+  "partial" : ""
+} 5
+{
+  "partial" : ""
+} 6
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.012499124997702893 ----
+./sounds/are_you_there.wav
+       ---- Playing are_you_there.wav ----        
+         ----- next state: S_HELLO ----           
+---- Current State: S_HELLO, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+{
+  "partial" : ""
+} 5
+{
+  "partial" : ""
+} 6
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008675208999193273 ----
+      ---- User Spoke:  i think we are. ----      
+CHECKING OK KEYWORDS
+0 14
+            ---- AI Detect : None ----            
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "hello"
+} 3
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00766624999960186 ----
+          ---- User Spoke:  hello. ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "i'm"
+} 1
+{
+  "partial" : "i'm good"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008597667001595255 ----
+        ---- User Spoke:  i am good. ----         
+CHECKING OK KEYWORDS
+0 9
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "do it"
+} 2
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007399624999379739 ----
+          ---- User Spoke:  do it! ----           
+CHECKING OK KEYWORDS
+5 5
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "hello"
+} 2
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008528624995960854 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "so go"
+} 1
+{
+  "partial" : "so go ahead"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007979959002113901 ----
+        ---- User Spoke:  so go ahead ----        
+CHECKING OK KEYWORDS
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007540749997133389 ----
+         ----- next state: S_HELLO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+./sounds/Hello 1.wav
+          ---- Playing Hello 1.wav ----           
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : "hello"
+} 0
+{
+  "partial" : "hello hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007931207997899037 ----
+           ---- User Spoke:  hello ----           
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "the n word"
+} 2
+{
+  "partial" : "the n word"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           {'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "hello"
+} 2
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008528624995960854 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "so go"
+} 1
+{
+  "partial" : "so go ahead"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007979959002113901 ----
+        ---- User Spoke:  so go ahead ----        
+CHECKING OK KEYWORDS
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007540749997133389 ----
+         ----- next state: S_HELLO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_HELLO ----
+        ----- Current State: S_HELLO -----        
+./sounds/Hello 1.wav
+          ---- Playing Hello 1.wav ----           
+           ---- listening for 6.0 ----            
+Refreshing Kaldi
+{
+  "partial" : "hello"
+} 0
+{
+  "partial" : "hello hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007931207997899037 ----
+           ---- User Spoke:  hello ----           
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_HELLO, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "the n word"
+} 2
+{
+  "partial" : "the n word"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006994790994212963 ----
+         ---- User Spoke:  i'm good. ----         
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "just do"
+} 2
+{
+  "partial" : "just do it"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008011708996491507 ----
+        ---- User Spoke:  just do it. ----        
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+./sounds/Age
+       ---- Playing ./sounds/Age/1.wav ----       
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : "you know"
+} 0
+{
+  "partial" : "in i"
+} 1
+{
+  "partial" : "the nine"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008505541001795791 ----
+         ---- User Spoke:  day nine. ----         
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008578499997383915 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "the"
+} 1
+{
+  "partial" : "the i dream"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008394957993004937 ----
+    ---- User Spoke:  how are you doing? ----     
+CHECKING OK KEYWORDS
+         ---- AI Detect : GreetBack ----          
+./sounds/I am Doing Great.wav
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "sure"
+} 1
+{
+  "partial" : "sure go ahead"
+} 1
+{
+  "partial" : "sure go ahead"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007317333998798858 ----
+       ---- User Spoke:  so, go ahead. ----       
+CHECKING OK KEYWORDS
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "hello"
+} 3
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008115415992506314 ----
+          ---- User Spoke:  hello? ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008578499997383915 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "the"
+} 1
+{
+  "partial" : "the i dream"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008394957993004937 ----
+    ---- User Spoke:  how are you doing? ----     
+CHECKING OK KEYWORDS
+         ---- AI Detect : GreetBack ----          
+./sounds/I am Doing Great.wav
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "sure"
+} 1
+{
+  "partial" : "sure go ahead"
+} 1
+{
+  "partial" : "sure go ahead"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007317333998798858 ----
+       ---- User Spoke:  so, go ahead. ----       
+CHECKING OK KEYWORDS
+     ---- AI Detect : answering_machine ----      
+          ----- next state: disp_A ----           
+Current Bot Disposition: A
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : "hello"
+} 3
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008115415992506314 ----
+          ---- User Spoke:  hello? ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "good"
+} 1
+{
+  "partial" : "the"
+} 1
+{
+  "partial" : "go to get to"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007863126003940124 ----
+        ---- User Spoke:  good. kito. ----        
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+./sounds/okay 1.wav
+           ---- Playing okay 1.wav ----           
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "this"
+} 1
+{
+  "partial" : "this"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008850583006278612 ----
+           ---- User Spoke:  jess ----            
+CHECKING OK KEYWORDS
+            ---- AI Detect : None ----            
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+./sounds/Age
+       ---- Playing ./sounds/Age/1.wav ----       
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "i"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007573875009256881 ----
+            ---- User Spoke: hey ----             
+greetings keyword check
+         ---- AI Detect : greetings ----          
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_AGE_QUESTION, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+./sounds/Age
+       ---- Playing ./sounds/Age/2.wav ----       
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+{
+  "partial" : "my name"
+} 5
+{
+  "partial" : "my name"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007964415999595076 ----
+           ---- User Spoke:  nine. ----           
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.6
+Dated:  03/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00783329299883917 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : "the"
+} 0
+{
+  "partial" : "there are"
+} 1
+{
+  "partial" : "they had our your the"
+} 1
+{
+  "partial" : "they had our your the"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.004452709006727673 ----
+    ---- User Spoke:  how are you doing? ----     
+CHECKING OK KEYWORDS
+         ---- AI Detect : GreetBack ----          
+./sounds/I am Doing Great.wav
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : "okay"
+} 4
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008305875002406538 ----
+            ---- User Spoke: okay ----            
+CHECKING OK KEYWORDS
+         ---- AI Detect : greetings ----          
+      ----- next state: S_AGE_QUESTION ----       
+---- Current State: S_PITCH, Next Stat : S_AGE_QUESTION ----
+    ----- Current State: S_AGE_QUESTION -----     
+./sounds/Age
+       ---- Playing ./sounds/Age/1.wav ----       
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "i'm"
+} 1
+{
+  "partial" : "i'm seventy"
+} 1
+{
+  "partial" : "i'm seventy two"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00892987499537412 ----
+          ---- User Spoke:  i'm 72. ----          
+        ---- AI Detect : affirmation ----         
+        ----- next state: S_TRANSFER ----         
+---- Current State: S_AGE_QUESTION, Next Stat : S_TRANSFER ----
+      ----- Current State: S_TRANSFER -----       
+./sounds/Transfer 1.wav
+         ---- Playing Transfer 1.wav ----         

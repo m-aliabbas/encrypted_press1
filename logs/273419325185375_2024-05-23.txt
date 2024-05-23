@@ -1,0 +1,250 @@
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.7
+Dated:  17/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': System error.
+           ---- listening for 1.5 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.013014100259169936 ----
+        ----- next state: S_TRANSFER ----         
+---- Current State: S_JUST_LISTEN, Next Stat : S_TRANSFER ----
+      ----- Current State: S_TRANSFER -----       
+./sounds/transfer_pitch.wav
+       ---- Playing transfer_pitch.wav ----       
+Unexpected error: Error opening RawOutputStream: Invalid number of channels [PaErrorCode -9998]
+           ---- listening for 5.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : ""
+} 2
+{
+  "partial" : ""
+} 3
+{
+  "partial" : ""
+} 4
+{
+  "partial" : ""
+} 5
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.7
+Dated:  17/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': System error.
+           ---- listening for 1.5 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.001505400286987424 ----
+        ----- next state: S_TRANSFER ----         
+---- Current State: S_JUST_LISTEN, Next Stat : S_TRANSFER ----
+      ----- Current State: S_TRANSFER -----       
+./sounds/transfer_pitch.wav
+       ---- Playing transfer_pitch.wav ----       
+           ---- listening for 5.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "her as"
+} 2
+{
+  "partial" : "her as us"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.012574800057336688 ----
+         ---- User Spoke:  dangerous ----         
+            ---- AI Detect : None ----            
+        ----- next state: disp_XFER ----          
+Current Bot Disposition: XFER
+          ----- Starting call # 1 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': System error.
+           ---- listening for 1.5 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server -0.002106900094076991 ----
+        ----- next state: S_TRANSFER ----         
+---- Current State: S_JUST_LISTEN, Next Stat : S_TRANSFER ----
+      ----- Current State: S_TRANSFER -----       
+./sounds/transfer_pitch.wav
+       ---- Playing transfer_pitch.wav ----       
+           ---- listening for 5.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "just from the"
+} 2
+{
+  "partial" : "just from the line"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server -0.0015742999967187643 ----
+      ---- User Spoke:  i am the line. ----       
+         ---- AI Detect : greetings ----          
+        ----- next state: disp_XFER ----          
+Current Bot Disposition: XFER
+          ----- Starting call # 2 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': System error.
+           ---- listening for 1.5 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.7
+Dated:  17/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+Its paused making it active
+!!!!!!!!!! unable to make bot un paused !!!!!!!!!!
+Message: element click intercepted: Element <a href="#" onclick="AutoDial_ReSume_PauSe('VDADready','','','','','','','YES');">...</a> is not clickable at point (77, 85). Other element would receive the click: <td align="center" valign="top">...</td>
+  (Session info: chrome=125.0.6422.76)
+
+**************************************************
+                      Error                       
+**************************************************
+           unable to make bot un paused           
+**************************************************
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.7
+Dated:  17/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.7
+Dated:  17/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': System error.
+           ---- listening for 1.5 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+No Response Dected
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.003240399993956089 ----
+        ----- next state: S_TRANSFER ----         
+---- Current State: S_JUST_LISTEN, Next Stat : S_TRANSFER ----
+      ----- Current State: S_TRANSFER -----       
+./sounds/transfer_pitch.wav
+       ---- Playing transfer_pitch.wav ----       
+           ---- listening for 5.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "so i"
+} 1
+{
+  "partial" : "so i'm wondering"
+} 1
+{
+  "partial" : "so i'm wondering"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.00795180001296103 ----
+     ---- User Spoke:  i am on the line. ----     
+         ---- AI Detect : greetings ----          
+        ----- next state: disp_XFER ----          
+Current Bot Disposition: XFER

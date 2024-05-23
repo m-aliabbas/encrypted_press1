@@ -1,0 +1,28 @@
+sound_device:
+  input: 6 # your input device / vb out
+  output: 8 #your output device/ vb in
+version: 2.7
+dated: '17/04/2024 @ 7:32 PM'
+running_mode : 'TRY' # if you have to run try.py make it "TRY" else "PRO"
+auto_unpause: False  # its value should be True or False to make auto pause/unpause ; Pleae check the spelling and case; it should be exactly that I specified
+chrome_driver: 'chrome_driver/chromedriver.exe'
+no_response_time: 3.0
+pause_duration: 0.5
+block_size: 8000
+nlu_server: "148.251.195.218"
+server_address:
+  ip: "148.251.195.218"
+  port: "9004"
+  end_point: "transcribe"
+  protocol: "ws"
+dialer_details: # dialer thingss
+  company_name: 'XYZ'
+  url: 'https://red85.theworkpc.com/vicidial/welcome.php' #you can change url if needed
+  user_id: '9001'
+  password: '9001'
+  campaign_num: '2' # campaign xpath num in [2]
+  transfer: 8 # how to transfer
+  pages: ["2","4"] #pages of dialer
+  preset: "D1" # like D5 etc
+  customer_phone_number: ""
+  wait_for_customer: "10.0"

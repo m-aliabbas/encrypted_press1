@@ -1,0 +1,9 @@
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.7
+Dated:  17/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      

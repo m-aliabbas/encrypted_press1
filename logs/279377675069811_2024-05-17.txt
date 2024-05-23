@@ -1,0 +1,95 @@
+{'samplerate': 16000, 'cuda_device': 'cpu', 'local_flag': True, 'maximum_allowable_duration': 10, 'duration_threshold_delta': 1, 'pause_duration': 0, 'maximum_noresponse_duration': 0, 'duration_threshold': 0.5, 'model_path': 'tiny.en', 'server_address': 'ws://148.251.195.218:9004/transcribe'}
+            ---- BOT JSON LOADED ----             
+==================================================
+Version 2.7
+Dated:  17/04/2024 @ 7:32 PM
+Developed by Mohammad Ali Abbas Sr. ML Engr. @ IdrakAi Ltd.
+==================================================
+          ----- Starting call # 0 -----           
+      ---- Refreshing Server Connection ----      
+     ----- Current State: S_JUST_LISTEN -----     
+./sounds/
+                ---- Playing  ----                
+Unexpected error: Error opening './sounds/': Format not recognised.
+           ---- listening for 3.0 ----            
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : ""
+} 1
+{
+  "partial" : "hello"
+} 2
+{
+  "partial" : "hello"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.006962917001146707 ----
+           ---- User Spoke:  hello ----           
+         ---- AI Detect : greetings ----          
+         ----- next state: S_INTRO ----           
+---- Current State: S_JUST_LISTEN, Next Stat : S_INTRO ----
+        ----- Current State: S_INTRO -----        
+./sounds/Intro 1.wav
+          ---- Playing Intro 1.wav ----           
+            ---- listening for 6 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "i'm doing"
+} 1
+{
+  "partial" : "i'm doing good"
+} 1
+{
+  "partial" : "i'm doing good how are"
+} 1
+{
+  "partial" : "i'm doing good how are you doing"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.007997999999133754 ----
+---- User Spoke:  i'm doing good. how are you doing? ----
+CHECKING OK KEYWORDS
+         ---- AI Detect : GreetBack ----          
+./sounds/I am Doing Great.wav
+      ---- Playing I am Doing Great.wav ----      
+         ----- next state: S_PITCH ----           
+---- Current State: S_INTRO, Next Stat : S_PITCH ----
+        ----- Current State: S_PITCH -----        
+./sounds/Pitch & Reason of Call.wav
+   ---- Playing Pitch & Reason of Call.wav ----   
+            ---- listening for 3 ----             
+Refreshing Kaldi
+{
+  "partial" : ""
+} 0
+{
+  "partial" : "no i'm not"
+} 1
+{
+  "partial" : "no i'm not"
+} 1
+       [-] ---- Asking VAD to Refresh ----        
+           ---- [+] Pause Detected ----           
+   ---- [+] sending transcription request ----    
+    ---- [+] Server Generating Transcript ----    
+---- [+] Time Taken by Server 0.008750375000090571 ----
+       ---- User Spoke:  no, i'm not. ----        
+CHECKING OK KEYWORDS
+          ---- AI Detect : decline ----           
+           ----- next state: S_NI ----            
+---- Current State: S_PITCH, Next Stat : S_NI ----
+         ----- Current State: S_NI -----          
+./sounds/Not Interested.wav
+       ---- Playing Not Interested.wav ----       
