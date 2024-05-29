@@ -1,52 +1,10 @@
 {
-    "initial_state": "S_JUST_LISTEN",
-    "S_JUST_LISTEN": {
-        "sec": "1.5",
-        "fileName": "",
-        "reb_state": false,
-        "qq_state": false,
-        "answering_machine ": {
-            "fileName": "",
-            "next_state": "disp_A "
-        },
-        "DNC ": {
-            "fileName": "",
-            "next_state": "disp_DNC "
-        },
-        "NotSpoke ": {
-            "fileName": "",
-            "next_state": "S_TRANSFER "
-        },
-        "None ": {
-            "fileName": "",
-            "next_state": "S_TRANSFER "
-        },
-        "say_again": {
-            "fileName": "",
-            "next_state": "S_TRANSFER "
-        }
-    },
+    "initial_state": "S_TRANSFER",
     "S_TRANSFER": {
-        "sec": "5.0",
+        "sec": "1.0",
         "fileName": "transfer_pitch.wav",
         "reb_state": false,
         "qq_state": false,
-        "answering_machine ": {
-            "fileName": "",
-            "next_state": "disp_A "
-        },
-        "abusive ": {
-            "fileName": "",
-            "next_state": "disp_DNC "
-        },
-        "scam ": {
-            "fileName": "",
-            "next_state": "disp_DNC "
-        },
-        "DNC ": {
-            "fileName": "",
-            "next_state": "disp_DNC "
-        },
         "affirmation ": {
             "fileName": "",
             "next_state": "disp_XFER "
@@ -57,23 +15,23 @@
         },
         "NotSpoke ": {
             "fileName": "",
-            "next_state": "disp_B"
+            "next_state": "disp_XFER"
         },
         "DNQ ": {
             "fileName": "",
-            "next_state": "disp_DNQ "
+            "next_state": "disp_XFER "
         },
         "decline ": {
             "fileName": "",
-            "next_state": "disp_B"
+            "next_state": "disp_XFER "
         },
         "Not_Interested": {
             "fileName": "",
-            "next_state": "disp_NI"
+            "next_state": "disp_XFER "
         },
         "BUSY": {
             "fileName": "",
-            "next_state": "disp_B"
+            "next_state": "disp_XFER "
         }
     }
 }
