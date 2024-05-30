@@ -2,7 +2,7 @@
     "initial_state": "S_TRANSFER",
     "S_TRANSFER": {
         "sec": "1.0",
-        "fileName": "transfer_pitch.wav",
+        "fileName": "",
         "reb_state": false,
         "qq_state": false,
         "affirmation ": {
