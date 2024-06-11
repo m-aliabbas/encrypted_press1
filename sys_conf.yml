@@ -4,7 +4,7 @@ sound_device:
 version: 2.7
 dated: '17/04/2024 @ 7:32 PM'
 running_mode : 'PRO' # if you have to run try.py make it "TRY" else "PRO"
-auto_unpause: False  # its value should be True or False to make auto pause/unpause ; Pleae check the spelling and case; it should be exactly that I specified
+auto_unpause: True  # its value should be True or False to make auto pause/unpause ; Pleae check the spelling and case; it should be exactly that I specified
 chrome_driver: 'chrome_driver/chromedriver.exe'
 no_response_time: 3.0
 pause_duration: 0.5
@@ -17,12 +17,12 @@ server_address:
   protocol: "ws"
 dialer_details: # dialer thingss
   company_name: 'XYZ'
-  url: 'https://red85.theworkpc.com/vicidial/welcome.php' #you can change url if needed
-  user_id: '9001'
-  password: '9001'
+  url: 'http://178.63.70.115/agc/vicidial.php?relogin=YES&VD_login=&VD_campaign=&phone_login=&phone_pass=&VD_pass=' #you can change url if needed
+  user_id: '5001'
+  password: 'queen123'
   campaign_num: '2' # campaign xpath num in [2]
   transfer: 8 # how to transfer
-  pages: ["2","4"] #pages of dialer
+  pages: ["0"] #pages of dialer
   preset: "D1" # like D5 etc
   customer_phone_number: ""
   wait_for_customer: "10.0"
