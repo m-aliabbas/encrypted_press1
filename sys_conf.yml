@@ -17,12 +17,12 @@ server_address:
   protocol: "ws"
 dialer_details: # dialer thingss
   company_name: 'XYZ'
-  url: 'http://178.63.70.115/agc/vicidial.php?relogin=YES&VD_login=&VD_campaign=&phone_login=&phone_pass=&VD_pass=' #you can change url if needed
-  user_id: '5001'
-  password: 'queen123'
+  url: 'https://facetube33.duckdns.org/agc/vicidial.php' #you can change url if needed
+  user_id: '70001'
+  password: 'facetube123'
   campaign_num: '2' # campaign xpath num in [2]
   transfer: 8 # how to transfer
-  pages: ["0"] #pages of dialer
+  pages: ["4","1"] #pages of dialer
   preset: "D1" # like D5 etc
   customer_phone_number: ""
   wait_for_customer: "10.0"
